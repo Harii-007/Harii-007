@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Datta Zarikar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Harii-007">
+<img width="400" align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Harii-007">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harii-007&label=Profile%20views&color=0e75b6&style=flat" alt="harii-007" /> </p>
 
