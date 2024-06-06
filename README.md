@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **React.js, Backend Development, DSA, OOP**
+- 🌱 I have good knowledge of **React.js, SQL, OOP,APIs**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Full stack web Development Projects**
 
-- 💬 Ask me about **HTML,CSS,JS,C++**
+- 💬 Ask me about **HTML,CSS,JS,C++,Java,SQL,OOP**
 
 - 📫 How to reach me **ddzarikar007@gmail.com**
 
